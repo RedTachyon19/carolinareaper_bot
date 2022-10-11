@@ -11,5 +11,3 @@ I use the free version of replit and as a result programs close after an hour on
 
 ### Author
 This bot is proudly created by Ishan Vemireddy aka RedTachyon19
-
-This is proudly created by Ishan Vemireddy aka RedTachyon19
