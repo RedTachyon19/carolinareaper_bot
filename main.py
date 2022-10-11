@@ -3,9 +3,9 @@ import discord
 
 from discord.ext import commands
 
+import os
 import keep_alive
 import music
-import os
 
 
 bot = commands.Bot(command_prefix= "!c ", intents = discord.Intents.all())
